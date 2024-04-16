@@ -1,8 +1,8 @@
 # think-addons
-The ThinkPHP 6 Addons Package
+The ThinkPHP 6 Addons Package, Fork from zz-studio/think-addons
 
 ## 安装
-> composer require zzstudio/think-addons
+> composer require agred/think-addons
 
 ## 配置
 

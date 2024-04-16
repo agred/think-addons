@@ -1,18 +1,18 @@
 {
-    "name": "zz-studio/think-addons",
+    "name": "agred/think-addons",
     "description": "The ThinkPHP6 Addons Package",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "byron",
-            "email": "xiaobo.sun@qq.com"
+            "name": "agred",
+            "email": "agred@163.com"
         }
     ],
     "require": {
         "php": ">=7.1.0",
-        "topthink/framework": "^6.0.0",
-        "topthink/think-view": "^1.0",
-        "topthink/think-helper": "^3.0.0"
+        "topthink/framework": "^6.1.4",
+        "topthink/think-view": "^1.0.14",
+        "topthink/think-helper": "^3.1.6"
     },
     "autoload": {
         "psr-4": {
